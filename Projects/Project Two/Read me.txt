@@ -1,0 +1,34 @@
+1- folder " Codes for figures " is for generating figures from the data files for all questions.
+
+2-there are four functions which I put them in each folders.
+
+a-filter_2
+b-filter_Boundary
+c-grad_u
+d-grad4_u
+
+3- folder "Second order LES by Adams bashforth" is for question 2 and the name of codes for Dynamic Smagorinsky, Wong, and Static models are:
+
+a-LESadamsrsmag
+b-Wongadams
+c-LESadamsstatic
+
+****Note**** you should open each one and Run.
+
+4- folder " Forth order LES by Runge-Kutta " is for question 3 and the name of codes for Dynamic Smagorinsky, Wong, and Static models are:
+
+a-LESrunge4smag
+b-LESRunge4Wong
+c-StaticRunge
+
+****Note**** you should open each one and Run.
+
+5- folder " Forth order DNS by Runge-Kutta " is for question 5 and DNS Solution with Nx=8192 and Nx=512 (No model):
+
+a-DNS4rthrange
+b-LESnomodel
+
+****Note**** you should open each one and Run.
+
+6- folder "validation" is for example 6.8 Moin
+
